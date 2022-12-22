@@ -1,3 +1,2 @@
 Bat dau hoc ve GIT
 t2:code on dinh
-t3:code BUG
